@@ -27,15 +27,29 @@ After being a Data Engineer, I realized that though backend engineering exciting
 ### Understanding the best time to perform maintenance on bikes
 **Vizualizations:** [`2018 Seoul Bike Rentals`](https://public.tableau.com/app/profile/kevin.lam5742/viz/2018SeoulAverageWeekdayBikeRentalsHour/Story1)
 
-**Goal:** To visualize the slowest time of bike rentals so workers can work on maintenance and repairs away from peak times. The data set inclueded things such as rented bike count, date, and weather data such as snowfall and humidity. For simplicity, we chose to focus on season and date/time the bike was rented
+**Goal:** To visualize the slowest time of bike rentals so workers can work on maintenance and repairs away from peak times. 
 
-**Description:** The project focused on visualizing the 2018 bike rental data in Seoul. 
+**Description:** The project focused on visualizing the 2018 bike rental data in Seoul. The data set inclueded things such as rented bike count, date, and weather data such as snowfall and humidity. For simplicity, we chose to focus on season and date/time the bike was rented.
 
 **Skills:** data visualization
 
 **Technology:** Tableau
 
 **Results:** After looking at the visualization, it is noted that the lowest bicycle traffic times are between 9am and 2pm on any given day, with no variation depending on the weekday. However, we notice that the bike rentals decrease significantly in the winter time. Because of this, regular maintanance can be recommended to be done at 9am-2pm on the weekedays and major repairs can be done in the winter months.
+
+
+### Comparing Lighning Strike Data throughout the years
+**Vizualizations:** [`Lightning Strike Visualizations`](https://public.tableau.com/app/profile/kevin.lam5742/viz/LightningStrikeData_17164276522070/LightningData)
+
+**Goal:** To understand the trends of lighning strikes from 2009-2018. 
+
+**Description:** The project focused on visualizing the lightning strike data to understand how the strikes changed over time. In this dataset columns used were latitute and longitude, and date the strike happened. 
+
+**Skills:** data visualization
+
+**Technology:** Tableau
+
+**Results:** After building the report we saw that over the last 9 years,  the number of lighning strikes recorded were increasing with Q3 (summer months) being the  most frequent month for lightning strikes to occur. Over the years, lightning strikes have moved frrom the east coast to the central mainlands with Louisiana, Arkansas, and Missisipi is where the lighning strikes occured the most in the whole decade.
 
 
 ## College Projects
