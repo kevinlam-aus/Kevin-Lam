@@ -19,7 +19,7 @@ Courses
 College Projects
 
 <p align="left">
-  <a href="https://github.com/kevinlam-aus/Projects"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=vscode-python&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sample Code from Old College Projects"></a>
+  <a href="https://github.com/kevinlam-aus/Projects"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kevinlam-aus&repo=Projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sample Code from Old College Projects"></a>
   </p>
 
 
