@@ -4,7 +4,7 @@ I'm a data engineer and an aspiring data analyst. I mainly write code with Pytho
 
 In college I had an internship as a data analyst as at a social networking app. There I was able to visualize networks and was tasked with attemping to explain what made a specific user popular. With a Bachelor’s degree in Management Information Systems and a minor in Marketing, I bring a unique blend of technical and business acumen to data. 
 
-After being a Data Engineer, I realized that though backend engineering exciting, my true passion is leveraging data to drive business decisions and am working to transition into a Data Analyst role.
+After being a Data Engineer, I realized that though backend engineering exciting, my true passion is leveraging data to drive business decisions and am working to transition into a data analyst role.
 
 
   
