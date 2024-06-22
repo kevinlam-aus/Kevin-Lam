@@ -11,7 +11,7 @@ After being a Data Engineer, I realized that though backend engineering exciting
 ## Main projects
 
 ### Predicting if an employee would leave Salifort Motors
-**Code:** [`Analyzing turnover at Salifort.ipynb`]([https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb](https://github.com/kevinlam-aus/Portfolio-Projects/blob/main/Salifort%20Motors%20Capstone%20Project.ipynb))
+**Code:** [`Analyzing turnover at Salifort`](https://github.com/kevinlam-aus/Portfolio-Projects/blob/main/Salifort%20Motors%20Capstone%20Project.ipynb)
 
 **Goal:** To determine why there was such a high turnover rate at Salifort Motors.
 
