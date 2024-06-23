@@ -8,14 +8,14 @@ After being a Data Engineer, I realized that though backend engineering exciting
 
 
   
-## Main projects
+## Recent projects
 
 ### Predicting if an employee would leave Salifort Motors
 **Code:** [`Analyzing turnover at Salifort`](https://github.com/kevinlam-aus/Portfolio-Projects/blob/main/Salifort%20Motors%20Capstone%20Project.ipynb)
 
 **Goal:** To determine why there was such a high turnover rate at Salifort Motors.
 
-**Description:** The project focused on analyzing a dataset of employees collected by the HR team. The dataset included satifaction level, employee's last performance review, number of projects an employee contributes to, number of hours an employee works a month, employee tenure, whether they were promoted in the last 5 years, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between whetehr an employee left or not against other variables, and builing logistical and tree-based models.
+**Description:** The project focused on analyzing a dataset of employees collected by the HR team. The dataset included satifaction level, employee's last performance review, number of projects an employee contributes to, number of hours an employee works a month, employee tenure, whether they were promoted in the last 5 years, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between whether an employee left or not against other variables, and builing logistical and tree-based models.
 
 **Skills:** data cleaning, data analysis, data modeling, machine learning, data visualization
 
@@ -49,8 +49,21 @@ After being a Data Engineer, I realized that though backend engineering exciting
 
 **Technology:** Tableau
 
-**Results:** After building the report we saw that over the last 9 years,  the number of lighning strikes recorded were increasing with Q3 (summer months) being the  most frequent month for lightning strikes to occur. Over the years, lightning strikes have moved frrom the east coast to the central mainlands with Louisiana, Arkansas, and Missisipi is where the lighning strikes occured the most in the whole decade.
+**Results:** After building the report we saw that over the last 9 years, the number of lighning strikes recorded were increasing with Q3 (summer months) being the  most frequent month for lightning strikes to occur. Over the years, lightning strikes have moved frrom the east coast to the central mainlands with Louisiana, Arkansas, and Missisipi is where the lighning strikes occured the most in the whole decade.
 
+
+### Waze User Churn
+**Code:** [`Analyzing turnover at Salifort`](https://github.com/kevinlam-aus/Portfolio-Projects/blob/main/Salifort%20Motors%20Capstone%20Project.ipynb)
+
+**Goal:** To predict user churn at Waze and understand possible reasons why.
+
+**Description:** The project focused on analyzing a dataset of churned users. The dataset included whether the user was retained or churned, number of times a user opened the app during the month, the number of drives over 1km during the month, whether the user had an iphone or adroid and other variables. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between whetehr an employee left or not against other variables, and building machine learning models.
+
+**Skills:** data cleaning, data analysis, data modeling, machine learning, data visualization
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Sklearn, xgboost
+
+**Results:** The machine learning model created would not be a strong predictor so we would not be able to drive any business decisions, however the model is a great start to guide further exploritory efforts. If we had additional information such as geographic location, drive times, or if a user ended the route before reaching their destination, it would give us a greater chance of improving the model.
 
 ## College Projects
 
