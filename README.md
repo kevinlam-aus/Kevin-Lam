@@ -53,7 +53,7 @@ After being a Data Engineer, I realized that though backend engineering exciting
 
 
 ### Waze User Churn
-**Code:** [`Analyzing turnover at Salifort`](https://github.com/kevinlam-aus/Portfolio-Projects/blob/main/Salifort%20Motors%20Capstone%20Project.ipynb)
+**Code:** [`Predicting User Churn at Waze`](https://github.com/kevinlam-aus/Waze-Advanced-Data-Analytics-Course)
 
 **Goal:** To predict user churn at Waze and understand possible reasons why.
 
